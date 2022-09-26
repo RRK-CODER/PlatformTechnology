@@ -1,0 +1,14 @@
+D:\CODING\PlatformTechnology\ArrayClass\ArrayClass\bin\Debug\netcoreapp3.1\ArrayClass.exe
+D:\CODING\PlatformTechnology\ArrayClass\ArrayClass\bin\Debug\netcoreapp3.1\ArrayClass.deps.json
+D:\CODING\PlatformTechnology\ArrayClass\ArrayClass\bin\Debug\netcoreapp3.1\ArrayClass.runtimeconfig.json
+D:\CODING\PlatformTechnology\ArrayClass\ArrayClass\bin\Debug\netcoreapp3.1\ArrayClass.runtimeconfig.dev.json
+D:\CODING\PlatformTechnology\ArrayClass\ArrayClass\bin\Debug\netcoreapp3.1\ArrayClass.dll
+D:\CODING\PlatformTechnology\ArrayClass\ArrayClass\bin\Debug\netcoreapp3.1\ArrayClass.pdb
+D:\CODING\PlatformTechnology\ArrayClass\ArrayClass\obj\Debug\netcoreapp3.1\ArrayClass.csproj.AssemblyReference.cache
+D:\CODING\PlatformTechnology\ArrayClass\ArrayClass\obj\Debug\netcoreapp3.1\ArrayClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\PlatformTechnology\ArrayClass\ArrayClass\obj\Debug\netcoreapp3.1\ArrayClass.AssemblyInfoInputs.cache
+D:\CODING\PlatformTechnology\ArrayClass\ArrayClass\obj\Debug\netcoreapp3.1\ArrayClass.AssemblyInfo.cs
+D:\CODING\PlatformTechnology\ArrayClass\ArrayClass\obj\Debug\netcoreapp3.1\ArrayClass.csproj.CoreCompileInputs.cache
+D:\CODING\PlatformTechnology\ArrayClass\ArrayClass\obj\Debug\netcoreapp3.1\ArrayClass.dll
+D:\CODING\PlatformTechnology\ArrayClass\ArrayClass\obj\Debug\netcoreapp3.1\ArrayClass.pdb
+D:\CODING\PlatformTechnology\ArrayClass\ArrayClass\obj\Debug\netcoreapp3.1\ArrayClass.genruntimeconfig.cache
