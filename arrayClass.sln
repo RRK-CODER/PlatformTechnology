@@ -1,13 +1,13 @@
-﻿using System;
+using System;
 
-namespace Arrayclass
+namespace arrayclass
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int[] a = { 7, 29, 23, 24 , 27 , 4};
-            Console.Write("The length of the given array is  ");
+            int[] a = { 1, 2, 3, 4 };
+            Console.Write("Length of the array: ");
             Console.Write(" " + a.Length);
             Console.WriteLine();
             Console.WriteLine("Given array");

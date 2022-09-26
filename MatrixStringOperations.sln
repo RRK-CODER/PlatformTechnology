@@ -1,0 +1,24 @@
+using System;
+namespace MatrixString
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            string str1 = "Lord";
+            string str2 = "Ram";
+            string str3 = string.Concat(str1, str2);
+            Console.WriteLine("After Concatination:");
+            Console.WriteLine(str3);
+            Console.Write("\tLength of str1:" + str1.Length);
+            Console.WriteLine("\tLength of str2: " + str2.Length);
+            Console.WriteLine("Upper case:" + " " + str1.ToUpper());
+            Console.WriteLine("Lower case:" + " " + str1.ToLower());
+            Console.WriteLine("Index of d" + " " + str1.IndexOf("d"));
+            Console.WriteLine("Index of R" + " " + str2.IndexOf("R"));
+            Console.WriteLine("Sustring:" + " " + str1.Substring(1, 3));
+            Console.WriteLine("Contains ord:" + " " + str1.Contains("ord"));
+            Console.WriteLine("Inserted string:" + " " + str2.Insert(3, "Ji"));
+        }
+    }
+}
