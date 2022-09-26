@@ -1,0 +1,14 @@
+D:\CODING\PlatformTechnology\MatrixAddition\MatrixAddition\bin\Debug\netcoreapp3.1\MatrixAddition.exe
+D:\CODING\PlatformTechnology\MatrixAddition\MatrixAddition\bin\Debug\netcoreapp3.1\MatrixAddition.deps.json
+D:\CODING\PlatformTechnology\MatrixAddition\MatrixAddition\bin\Debug\netcoreapp3.1\MatrixAddition.runtimeconfig.json
+D:\CODING\PlatformTechnology\MatrixAddition\MatrixAddition\bin\Debug\netcoreapp3.1\MatrixAddition.runtimeconfig.dev.json
+D:\CODING\PlatformTechnology\MatrixAddition\MatrixAddition\bin\Debug\netcoreapp3.1\MatrixAddition.dll
+D:\CODING\PlatformTechnology\MatrixAddition\MatrixAddition\bin\Debug\netcoreapp3.1\MatrixAddition.pdb
+D:\CODING\PlatformTechnology\MatrixAddition\MatrixAddition\obj\Debug\netcoreapp3.1\MatrixAddition.csproj.AssemblyReference.cache
+D:\CODING\PlatformTechnology\MatrixAddition\MatrixAddition\obj\Debug\netcoreapp3.1\MatrixAddition.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\PlatformTechnology\MatrixAddition\MatrixAddition\obj\Debug\netcoreapp3.1\MatrixAddition.AssemblyInfoInputs.cache
+D:\CODING\PlatformTechnology\MatrixAddition\MatrixAddition\obj\Debug\netcoreapp3.1\MatrixAddition.AssemblyInfo.cs
+D:\CODING\PlatformTechnology\MatrixAddition\MatrixAddition\obj\Debug\netcoreapp3.1\MatrixAddition.csproj.CoreCompileInputs.cache
+D:\CODING\PlatformTechnology\MatrixAddition\MatrixAddition\obj\Debug\netcoreapp3.1\MatrixAddition.dll
+D:\CODING\PlatformTechnology\MatrixAddition\MatrixAddition\obj\Debug\netcoreapp3.1\MatrixAddition.pdb
+D:\CODING\PlatformTechnology\MatrixAddition\MatrixAddition\obj\Debug\netcoreapp3.1\MatrixAddition.genruntimeconfig.cache
