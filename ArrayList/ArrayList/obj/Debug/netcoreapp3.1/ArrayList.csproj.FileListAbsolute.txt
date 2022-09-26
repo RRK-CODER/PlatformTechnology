@@ -1,0 +1,14 @@
+D:\CODING\PlatformTechnology\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.exe
+D:\CODING\PlatformTechnology\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.deps.json
+D:\CODING\PlatformTechnology\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.json
+D:\CODING\PlatformTechnology\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.dev.json
+D:\CODING\PlatformTechnology\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.dll
+D:\CODING\PlatformTechnology\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.pdb
+D:\CODING\PlatformTechnology\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\PlatformTechnology\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfoInputs.cache
+D:\CODING\PlatformTechnology\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfo.cs
+D:\CODING\PlatformTechnology\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.csproj.CoreCompileInputs.cache
+D:\CODING\PlatformTechnology\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.dll
+D:\CODING\PlatformTechnology\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.pdb
+D:\CODING\PlatformTechnology\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.genruntimeconfig.cache
+D:\CODING\PlatformTechnology\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.csproj.AssemblyReference.cache
