@@ -6,6 +6,8 @@ namespace Indexer_Overloading
     {
         private string[] word = new string[2];
 
+        // this indexer gets executed
+        // when Obj[0]gets executed
         public string this[int flag]
         {
             get
@@ -19,6 +21,9 @@ namespace Indexer_Overloading
             }
 
         }
+        // this is an Overloaded indexer
+        // which will execute when 
+        // Obj[1.0f] gets executed
         public string this [float flag]
         {
             get
@@ -35,8 +40,8 @@ namespace Indexer_Overloading
         {
             Program Obj = new Program();
 
-            Obj[0] = "Lord";
-            Obj[1.0f] = "Ram";
+            Obj[0] = "Lord "; // Value of word[0]
+            Obj[1.0f] = "Ram"; // Value of word[1]
             Console.WriteLine(Obj[0] + Obj[1.0f]);
         }
     }
