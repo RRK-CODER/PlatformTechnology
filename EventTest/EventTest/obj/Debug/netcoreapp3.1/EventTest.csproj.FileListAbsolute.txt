@@ -1,0 +1,14 @@
+D:\CODING\PlatformTechnology\EventTest\EventTest\bin\Debug\netcoreapp3.1\EventTest.exe
+D:\CODING\PlatformTechnology\EventTest\EventTest\bin\Debug\netcoreapp3.1\EventTest.deps.json
+D:\CODING\PlatformTechnology\EventTest\EventTest\bin\Debug\netcoreapp3.1\EventTest.runtimeconfig.json
+D:\CODING\PlatformTechnology\EventTest\EventTest\bin\Debug\netcoreapp3.1\EventTest.runtimeconfig.dev.json
+D:\CODING\PlatformTechnology\EventTest\EventTest\bin\Debug\netcoreapp3.1\EventTest.dll
+D:\CODING\PlatformTechnology\EventTest\EventTest\bin\Debug\netcoreapp3.1\EventTest.pdb
+D:\CODING\PlatformTechnology\EventTest\EventTest\obj\Debug\netcoreapp3.1\EventTest.csproj.AssemblyReference.cache
+D:\CODING\PlatformTechnology\EventTest\EventTest\obj\Debug\netcoreapp3.1\EventTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\PlatformTechnology\EventTest\EventTest\obj\Debug\netcoreapp3.1\EventTest.AssemblyInfoInputs.cache
+D:\CODING\PlatformTechnology\EventTest\EventTest\obj\Debug\netcoreapp3.1\EventTest.AssemblyInfo.cs
+D:\CODING\PlatformTechnology\EventTest\EventTest\obj\Debug\netcoreapp3.1\EventTest.csproj.CoreCompileInputs.cache
+D:\CODING\PlatformTechnology\EventTest\EventTest\obj\Debug\netcoreapp3.1\EventTest.dll
+D:\CODING\PlatformTechnology\EventTest\EventTest\obj\Debug\netcoreapp3.1\EventTest.pdb
+D:\CODING\PlatformTechnology\EventTest\EventTest\obj\Debug\netcoreapp3.1\EventTest.genruntimeconfig.cache
