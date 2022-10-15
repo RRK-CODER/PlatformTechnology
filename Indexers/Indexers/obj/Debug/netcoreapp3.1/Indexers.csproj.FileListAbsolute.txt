@@ -1,0 +1,14 @@
+D:\CODING\PlatformTechnology\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.csproj.AssemblyReference.cache
+D:\CODING\PlatformTechnology\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\PlatformTechnology\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfoInputs.cache
+D:\CODING\PlatformTechnology\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfo.cs
+D:\CODING\PlatformTechnology\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.csproj.CoreCompileInputs.cache
+D:\CODING\PlatformTechnology\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.exe
+D:\CODING\PlatformTechnology\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.deps.json
+D:\CODING\PlatformTechnology\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.json
+D:\CODING\PlatformTechnology\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.dev.json
+D:\CODING\PlatformTechnology\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.dll
+D:\CODING\PlatformTechnology\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.pdb
+D:\CODING\PlatformTechnology\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.dll
+D:\CODING\PlatformTechnology\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.pdb
+D:\CODING\PlatformTechnology\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.genruntimeconfig.cache
