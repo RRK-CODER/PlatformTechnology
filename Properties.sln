@@ -1,0 +1,54 @@
+﻿using System;
+
+namespace Properties_in_Csharp
+{
+ class Accounts
+    {
+        float init_amount;
+        static float interest;
+        public float InitialAmount
+        {
+            set
+            {
+                if(value<1000)
+                {
+                    Console.WriteLine("Intial amount can be less than 1000");
+                    return;
+                }
+                init_amount = value;
+            }
+            get
+            {
+                return init_amount;
+            }
+
+        }
+        public static float InterestRate
+        {
+            private set { interest = value; }
+            get { return interest; }
+        }
+        public Accounts()
+        {
+            this.InitialAmount = 10000;
+        }
+        public Accounts(float amt)
+        {
+            this.InitialAmount = amt;
+        }
+        static Accounts()
+        {
+            Accounts.InterestRate = 9.5f;
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Accounts ac1 = new Accounts(1500);
+            Console.WriteLine(ac1.InitialAmount);
+            Console.WriteLine(Accounts.InterestRate);
+        }
+    }
+}
