@@ -1,0 +1,14 @@
+D:\CODING\PlatformTechnology\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+D:\CODING\PlatformTechnology\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+D:\CODING\PlatformTechnology\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+D:\CODING\PlatformTechnology\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+D:\CODING\PlatformTechnology\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+D:\CODING\PlatformTechnology\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+D:\CODING\PlatformTechnology\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.AssemblyReference.cache
+D:\CODING\PlatformTechnology\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\PlatformTechnology\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+D:\CODING\PlatformTechnology\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+D:\CODING\PlatformTechnology\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+D:\CODING\PlatformTechnology\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+D:\CODING\PlatformTechnology\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+D:\CODING\PlatformTechnology\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache
