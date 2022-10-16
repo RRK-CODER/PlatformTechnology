@@ -1,0 +1,16 @@
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\bin\Debug\netcoreapp3.1\WindowsFormPart1.exe
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\bin\Debug\netcoreapp3.1\WindowsFormPart1.deps.json
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\bin\Debug\netcoreapp3.1\WindowsFormPart1.runtimeconfig.json
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\bin\Debug\netcoreapp3.1\WindowsFormPart1.runtimeconfig.dev.json
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\bin\Debug\netcoreapp3.1\WindowsFormPart1.dll
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\bin\Debug\netcoreapp3.1\WindowsFormPart1.pdb
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\obj\Debug\netcoreapp3.1\WindowsFormPart1.csproj.AssemblyReference.cache
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\obj\Debug\netcoreapp3.1\WindowsFormPart1.Form1.resources
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\obj\Debug\netcoreapp3.1\WindowsFormPart1.csproj.GenerateResource.cache
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\obj\Debug\netcoreapp3.1\WindowsFormPart1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\obj\Debug\netcoreapp3.1\WindowsFormPart1.AssemblyInfoInputs.cache
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\obj\Debug\netcoreapp3.1\WindowsFormPart1.AssemblyInfo.cs
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\obj\Debug\netcoreapp3.1\WindowsFormPart1.csproj.CoreCompileInputs.cache
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\obj\Debug\netcoreapp3.1\WindowsFormPart1.dll
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\obj\Debug\netcoreapp3.1\WindowsFormPart1.pdb
+D:\CODING\PlatformTechnology\WindowsFormPart1\WindowsFormPart1\obj\Debug\netcoreapp3.1\WindowsFormPart1.genruntimeconfig.cache
