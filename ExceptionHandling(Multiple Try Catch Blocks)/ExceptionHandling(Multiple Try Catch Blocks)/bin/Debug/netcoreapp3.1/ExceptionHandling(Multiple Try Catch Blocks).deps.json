@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExceptionHandling(Multiple Try Catch Blocks)/1.0.0": {
+        "runtime": {
+          "ExceptionHandling(Multiple Try Catch Blocks).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExceptionHandling(Multiple Try Catch Blocks)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
