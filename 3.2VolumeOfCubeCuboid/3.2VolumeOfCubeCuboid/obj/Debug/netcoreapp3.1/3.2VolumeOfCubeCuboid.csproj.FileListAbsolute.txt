@@ -1,0 +1,14 @@
+D:\CODING\PlatformTechnology\3.2VolumeOfCubeCuboid\3.2VolumeOfCubeCuboid\bin\Debug\netcoreapp3.1\3.2VolumeOfCubeCuboid.exe
+D:\CODING\PlatformTechnology\3.2VolumeOfCubeCuboid\3.2VolumeOfCubeCuboid\bin\Debug\netcoreapp3.1\3.2VolumeOfCubeCuboid.deps.json
+D:\CODING\PlatformTechnology\3.2VolumeOfCubeCuboid\3.2VolumeOfCubeCuboid\bin\Debug\netcoreapp3.1\3.2VolumeOfCubeCuboid.runtimeconfig.json
+D:\CODING\PlatformTechnology\3.2VolumeOfCubeCuboid\3.2VolumeOfCubeCuboid\bin\Debug\netcoreapp3.1\3.2VolumeOfCubeCuboid.runtimeconfig.dev.json
+D:\CODING\PlatformTechnology\3.2VolumeOfCubeCuboid\3.2VolumeOfCubeCuboid\bin\Debug\netcoreapp3.1\3.2VolumeOfCubeCuboid.dll
+D:\CODING\PlatformTechnology\3.2VolumeOfCubeCuboid\3.2VolumeOfCubeCuboid\bin\Debug\netcoreapp3.1\3.2VolumeOfCubeCuboid.pdb
+D:\CODING\PlatformTechnology\3.2VolumeOfCubeCuboid\3.2VolumeOfCubeCuboid\obj\Debug\netcoreapp3.1\3.2VolumeOfCubeCuboid.csproj.AssemblyReference.cache
+D:\CODING\PlatformTechnology\3.2VolumeOfCubeCuboid\3.2VolumeOfCubeCuboid\obj\Debug\netcoreapp3.1\3.2VolumeOfCubeCuboid.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\PlatformTechnology\3.2VolumeOfCubeCuboid\3.2VolumeOfCubeCuboid\obj\Debug\netcoreapp3.1\3.2VolumeOfCubeCuboid.AssemblyInfoInputs.cache
+D:\CODING\PlatformTechnology\3.2VolumeOfCubeCuboid\3.2VolumeOfCubeCuboid\obj\Debug\netcoreapp3.1\3.2VolumeOfCubeCuboid.AssemblyInfo.cs
+D:\CODING\PlatformTechnology\3.2VolumeOfCubeCuboid\3.2VolumeOfCubeCuboid\obj\Debug\netcoreapp3.1\3.2VolumeOfCubeCuboid.csproj.CoreCompileInputs.cache
+D:\CODING\PlatformTechnology\3.2VolumeOfCubeCuboid\3.2VolumeOfCubeCuboid\obj\Debug\netcoreapp3.1\3.2VolumeOfCubeCuboid.dll
+D:\CODING\PlatformTechnology\3.2VolumeOfCubeCuboid\3.2VolumeOfCubeCuboid\obj\Debug\netcoreapp3.1\3.2VolumeOfCubeCuboid.pdb
+D:\CODING\PlatformTechnology\3.2VolumeOfCubeCuboid\3.2VolumeOfCubeCuboid\obj\Debug\netcoreapp3.1\3.2VolumeOfCubeCuboid.genruntimeconfig.cache
