@@ -1,0 +1,14 @@
+D:\CODING\PlatformTechnology\2.4CSBindexers\2.4CSBindexers\bin\Debug\netcoreapp3.1\2.4CSBindexers.exe
+D:\CODING\PlatformTechnology\2.4CSBindexers\2.4CSBindexers\bin\Debug\netcoreapp3.1\2.4CSBindexers.deps.json
+D:\CODING\PlatformTechnology\2.4CSBindexers\2.4CSBindexers\bin\Debug\netcoreapp3.1\2.4CSBindexers.runtimeconfig.json
+D:\CODING\PlatformTechnology\2.4CSBindexers\2.4CSBindexers\bin\Debug\netcoreapp3.1\2.4CSBindexers.runtimeconfig.dev.json
+D:\CODING\PlatformTechnology\2.4CSBindexers\2.4CSBindexers\bin\Debug\netcoreapp3.1\2.4CSBindexers.dll
+D:\CODING\PlatformTechnology\2.4CSBindexers\2.4CSBindexers\bin\Debug\netcoreapp3.1\2.4CSBindexers.pdb
+D:\CODING\PlatformTechnology\2.4CSBindexers\2.4CSBindexers\obj\Debug\netcoreapp3.1\2.4CSBindexers.csproj.AssemblyReference.cache
+D:\CODING\PlatformTechnology\2.4CSBindexers\2.4CSBindexers\obj\Debug\netcoreapp3.1\2.4CSBindexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\PlatformTechnology\2.4CSBindexers\2.4CSBindexers\obj\Debug\netcoreapp3.1\2.4CSBindexers.AssemblyInfoInputs.cache
+D:\CODING\PlatformTechnology\2.4CSBindexers\2.4CSBindexers\obj\Debug\netcoreapp3.1\2.4CSBindexers.AssemblyInfo.cs
+D:\CODING\PlatformTechnology\2.4CSBindexers\2.4CSBindexers\obj\Debug\netcoreapp3.1\2.4CSBindexers.csproj.CoreCompileInputs.cache
+D:\CODING\PlatformTechnology\2.4CSBindexers\2.4CSBindexers\obj\Debug\netcoreapp3.1\2.4CSBindexers.dll
+D:\CODING\PlatformTechnology\2.4CSBindexers\2.4CSBindexers\obj\Debug\netcoreapp3.1\2.4CSBindexers.pdb
+D:\CODING\PlatformTechnology\2.4CSBindexers\2.4CSBindexers\obj\Debug\netcoreapp3.1\2.4CSBindexers.genruntimeconfig.cache
