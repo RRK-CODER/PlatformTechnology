@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\2.3CSBproperties\2.3CSBproperties\bin\Debug\netcoreapp3.1\2.3CSBproperties.exe
+C:\Users\User\source\repos\2.3CSBproperties\2.3CSBproperties\bin\Debug\netcoreapp3.1\2.3CSBproperties.deps.json
+C:\Users\User\source\repos\2.3CSBproperties\2.3CSBproperties\bin\Debug\netcoreapp3.1\2.3CSBproperties.runtimeconfig.json
+C:\Users\User\source\repos\2.3CSBproperties\2.3CSBproperties\bin\Debug\netcoreapp3.1\2.3CSBproperties.runtimeconfig.dev.json
+C:\Users\User\source\repos\2.3CSBproperties\2.3CSBproperties\bin\Debug\netcoreapp3.1\2.3CSBproperties.dll
+C:\Users\User\source\repos\2.3CSBproperties\2.3CSBproperties\bin\Debug\netcoreapp3.1\2.3CSBproperties.pdb
+C:\Users\User\source\repos\2.3CSBproperties\2.3CSBproperties\obj\Debug\netcoreapp3.1\2.3CSBproperties.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\2.3CSBproperties\2.3CSBproperties\obj\Debug\netcoreapp3.1\2.3CSBproperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\2.3CSBproperties\2.3CSBproperties\obj\Debug\netcoreapp3.1\2.3CSBproperties.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\2.3CSBproperties\2.3CSBproperties\obj\Debug\netcoreapp3.1\2.3CSBproperties.AssemblyInfo.cs
+C:\Users\User\source\repos\2.3CSBproperties\2.3CSBproperties\obj\Debug\netcoreapp3.1\2.3CSBproperties.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2.3CSBproperties\2.3CSBproperties\obj\Debug\netcoreapp3.1\2.3CSBproperties.dll
+C:\Users\User\source\repos\2.3CSBproperties\2.3CSBproperties\obj\Debug\netcoreapp3.1\2.3CSBproperties.pdb
+C:\Users\User\source\repos\2.3CSBproperties\2.3CSBproperties\obj\Debug\netcoreapp3.1\2.3CSBproperties.genruntimeconfig.cache
