@@ -1,0 +1,13 @@
+D:\CODING\PlatformTechnology\3.3VehicleEMI\3.3VehicleEMI\bin\Debug\netcoreapp3.1\3.3VehicleEMI.exe
+D:\CODING\PlatformTechnology\3.3VehicleEMI\3.3VehicleEMI\bin\Debug\netcoreapp3.1\3.3VehicleEMI.deps.json
+D:\CODING\PlatformTechnology\3.3VehicleEMI\3.3VehicleEMI\bin\Debug\netcoreapp3.1\3.3VehicleEMI.runtimeconfig.json
+D:\CODING\PlatformTechnology\3.3VehicleEMI\3.3VehicleEMI\bin\Debug\netcoreapp3.1\3.3VehicleEMI.runtimeconfig.dev.json
+D:\CODING\PlatformTechnology\3.3VehicleEMI\3.3VehicleEMI\bin\Debug\netcoreapp3.1\3.3VehicleEMI.dll
+D:\CODING\PlatformTechnology\3.3VehicleEMI\3.3VehicleEMI\bin\Debug\netcoreapp3.1\3.3VehicleEMI.pdb
+D:\CODING\PlatformTechnology\3.3VehicleEMI\3.3VehicleEMI\obj\Debug\netcoreapp3.1\3.3VehicleEMI.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\PlatformTechnology\3.3VehicleEMI\3.3VehicleEMI\obj\Debug\netcoreapp3.1\3.3VehicleEMI.AssemblyInfoInputs.cache
+D:\CODING\PlatformTechnology\3.3VehicleEMI\3.3VehicleEMI\obj\Debug\netcoreapp3.1\3.3VehicleEMI.AssemblyInfo.cs
+D:\CODING\PlatformTechnology\3.3VehicleEMI\3.3VehicleEMI\obj\Debug\netcoreapp3.1\3.3VehicleEMI.csproj.CoreCompileInputs.cache
+D:\CODING\PlatformTechnology\3.3VehicleEMI\3.3VehicleEMI\obj\Debug\netcoreapp3.1\3.3VehicleEMI.dll
+D:\CODING\PlatformTechnology\3.3VehicleEMI\3.3VehicleEMI\obj\Debug\netcoreapp3.1\3.3VehicleEMI.pdb
+D:\CODING\PlatformTechnology\3.3VehicleEMI\3.3VehicleEMI\obj\Debug\netcoreapp3.1\3.3VehicleEMI.genruntimeconfig.cache
