@@ -1,0 +1,14 @@
+D:\CODING\PlatformTechnology\3.1BankAccount\3.1BankAccount\obj\Debug\netcoreapp3.1\3.1BankAccount.csproj.AssemblyReference.cache
+D:\CODING\PlatformTechnology\3.1BankAccount\3.1BankAccount\obj\Debug\netcoreapp3.1\3.1BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\PlatformTechnology\3.1BankAccount\3.1BankAccount\obj\Debug\netcoreapp3.1\3.1BankAccount.AssemblyInfoInputs.cache
+D:\CODING\PlatformTechnology\3.1BankAccount\3.1BankAccount\obj\Debug\netcoreapp3.1\3.1BankAccount.AssemblyInfo.cs
+D:\CODING\PlatformTechnology\3.1BankAccount\3.1BankAccount\obj\Debug\netcoreapp3.1\3.1BankAccount.csproj.CoreCompileInputs.cache
+D:\CODING\PlatformTechnology\3.1BankAccount\3.1BankAccount\bin\Debug\netcoreapp3.1\3.1BankAccount.exe
+D:\CODING\PlatformTechnology\3.1BankAccount\3.1BankAccount\bin\Debug\netcoreapp3.1\3.1BankAccount.deps.json
+D:\CODING\PlatformTechnology\3.1BankAccount\3.1BankAccount\bin\Debug\netcoreapp3.1\3.1BankAccount.runtimeconfig.json
+D:\CODING\PlatformTechnology\3.1BankAccount\3.1BankAccount\bin\Debug\netcoreapp3.1\3.1BankAccount.runtimeconfig.dev.json
+D:\CODING\PlatformTechnology\3.1BankAccount\3.1BankAccount\bin\Debug\netcoreapp3.1\3.1BankAccount.dll
+D:\CODING\PlatformTechnology\3.1BankAccount\3.1BankAccount\bin\Debug\netcoreapp3.1\3.1BankAccount.pdb
+D:\CODING\PlatformTechnology\3.1BankAccount\3.1BankAccount\obj\Debug\netcoreapp3.1\3.1BankAccount.dll
+D:\CODING\PlatformTechnology\3.1BankAccount\3.1BankAccount\obj\Debug\netcoreapp3.1\3.1BankAccount.pdb
+D:\CODING\PlatformTechnology\3.1BankAccount\3.1BankAccount\obj\Debug\netcoreapp3.1\3.1BankAccount.genruntimeconfig.cache
