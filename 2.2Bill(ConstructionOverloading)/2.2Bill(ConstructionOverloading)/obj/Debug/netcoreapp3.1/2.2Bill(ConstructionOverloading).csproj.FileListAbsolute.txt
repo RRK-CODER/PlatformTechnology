@@ -1,0 +1,14 @@
+D:\CODING\PlatformTechnology\2.2Bill(ConstructionOverloading)\2.2Bill(ConstructionOverloading)\bin\Debug\netcoreapp3.1\2.2Bill(ConstructionOverloading).exe
+D:\CODING\PlatformTechnology\2.2Bill(ConstructionOverloading)\2.2Bill(ConstructionOverloading)\bin\Debug\netcoreapp3.1\2.2Bill(ConstructionOverloading).deps.json
+D:\CODING\PlatformTechnology\2.2Bill(ConstructionOverloading)\2.2Bill(ConstructionOverloading)\bin\Debug\netcoreapp3.1\2.2Bill(ConstructionOverloading).runtimeconfig.json
+D:\CODING\PlatformTechnology\2.2Bill(ConstructionOverloading)\2.2Bill(ConstructionOverloading)\bin\Debug\netcoreapp3.1\2.2Bill(ConstructionOverloading).runtimeconfig.dev.json
+D:\CODING\PlatformTechnology\2.2Bill(ConstructionOverloading)\2.2Bill(ConstructionOverloading)\bin\Debug\netcoreapp3.1\2.2Bill(ConstructionOverloading).dll
+D:\CODING\PlatformTechnology\2.2Bill(ConstructionOverloading)\2.2Bill(ConstructionOverloading)\bin\Debug\netcoreapp3.1\2.2Bill(ConstructionOverloading).pdb
+D:\CODING\PlatformTechnology\2.2Bill(ConstructionOverloading)\2.2Bill(ConstructionOverloading)\obj\Debug\netcoreapp3.1\2.2Bill(ConstructionOverloading).csproj.AssemblyReference.cache
+D:\CODING\PlatformTechnology\2.2Bill(ConstructionOverloading)\2.2Bill(ConstructionOverloading)\obj\Debug\netcoreapp3.1\2.2Bill(ConstructionOverloading).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\PlatformTechnology\2.2Bill(ConstructionOverloading)\2.2Bill(ConstructionOverloading)\obj\Debug\netcoreapp3.1\2.2Bill(ConstructionOverloading).AssemblyInfoInputs.cache
+D:\CODING\PlatformTechnology\2.2Bill(ConstructionOverloading)\2.2Bill(ConstructionOverloading)\obj\Debug\netcoreapp3.1\2.2Bill(ConstructionOverloading).AssemblyInfo.cs
+D:\CODING\PlatformTechnology\2.2Bill(ConstructionOverloading)\2.2Bill(ConstructionOverloading)\obj\Debug\netcoreapp3.1\2.2Bill(ConstructionOverloading).csproj.CoreCompileInputs.cache
+D:\CODING\PlatformTechnology\2.2Bill(ConstructionOverloading)\2.2Bill(ConstructionOverloading)\obj\Debug\netcoreapp3.1\2.2Bill(ConstructionOverloading).dll
+D:\CODING\PlatformTechnology\2.2Bill(ConstructionOverloading)\2.2Bill(ConstructionOverloading)\obj\Debug\netcoreapp3.1\2.2Bill(ConstructionOverloading).pdb
+D:\CODING\PlatformTechnology\2.2Bill(ConstructionOverloading)\2.2Bill(ConstructionOverloading)\obj\Debug\netcoreapp3.1\2.2Bill(ConstructionOverloading).genruntimeconfig.cache
