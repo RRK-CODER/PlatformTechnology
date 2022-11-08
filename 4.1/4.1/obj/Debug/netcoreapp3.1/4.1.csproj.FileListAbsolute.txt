@@ -1,0 +1,13 @@
+D:\CODING\PlatformTechnology\4.1\4.1\obj\Debug\netcoreapp3.1\4.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\PlatformTechnology\4.1\4.1\obj\Debug\netcoreapp3.1\4.1.AssemblyInfoInputs.cache
+D:\CODING\PlatformTechnology\4.1\4.1\obj\Debug\netcoreapp3.1\4.1.AssemblyInfo.cs
+D:\CODING\PlatformTechnology\4.1\4.1\obj\Debug\netcoreapp3.1\4.1.csproj.CoreCompileInputs.cache
+D:\CODING\PlatformTechnology\4.1\4.1\bin\Debug\netcoreapp3.1\4.1.exe
+D:\CODING\PlatformTechnology\4.1\4.1\bin\Debug\netcoreapp3.1\4.1.deps.json
+D:\CODING\PlatformTechnology\4.1\4.1\bin\Debug\netcoreapp3.1\4.1.runtimeconfig.json
+D:\CODING\PlatformTechnology\4.1\4.1\bin\Debug\netcoreapp3.1\4.1.runtimeconfig.dev.json
+D:\CODING\PlatformTechnology\4.1\4.1\bin\Debug\netcoreapp3.1\4.1.dll
+D:\CODING\PlatformTechnology\4.1\4.1\bin\Debug\netcoreapp3.1\4.1.pdb
+D:\CODING\PlatformTechnology\4.1\4.1\obj\Debug\netcoreapp3.1\4.1.dll
+D:\CODING\PlatformTechnology\4.1\4.1\obj\Debug\netcoreapp3.1\4.1.pdb
+D:\CODING\PlatformTechnology\4.1\4.1\obj\Debug\netcoreapp3.1\4.1.genruntimeconfig.cache
