@@ -17,7 +17,7 @@ namespace Threading
         {
             for(int i=1; i<=4; i++)
             {
-                Console.WriteLine("ivalur:{0}", i);
+                Console.WriteLine("ivalue:{0}", i);
             }
             Console.WriteLine("Child Thread Completed");
         }

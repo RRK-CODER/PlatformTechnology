@@ -1,0 +1,4 @@
+D:\CODING\PlatformTechnology\Sealed Class\Sealed Class\obj\Debug\netcoreapp3.1\Sealed Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\PlatformTechnology\Sealed Class\Sealed Class\obj\Debug\netcoreapp3.1\Sealed Class.AssemblyInfoInputs.cache
+D:\CODING\PlatformTechnology\Sealed Class\Sealed Class\obj\Debug\netcoreapp3.1\Sealed Class.AssemblyInfo.cs
+D:\CODING\PlatformTechnology\Sealed Class\Sealed Class\obj\Debug\netcoreapp3.1\Sealed Class.csproj.CoreCompileInputs.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\2.3CSBproperties\\2.3CSBproperties\\2.3CSBproperties.csproj": {}
+    "D:\\CODING\\PlatformTechnology\\2.3CSBproperties\\2.3CSBproperties\\2.3CSBproperties.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\2.3CSBproperties\\2.3CSBproperties\\2.3CSBproperties.csproj": {
+    "D:\\CODING\\PlatformTechnology\\2.3CSBproperties\\2.3CSBproperties\\2.3CSBproperties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\2.3CSBproperties\\2.3CSBproperties\\2.3CSBproperties.csproj",
+        "projectUniqueName": "D:\\CODING\\PlatformTechnology\\2.3CSBproperties\\2.3CSBproperties\\2.3CSBproperties.csproj",
         "projectName": "2.3CSBproperties",
-        "projectPath": "C:\\Users\\User\\source\\repos\\2.3CSBproperties\\2.3CSBproperties\\2.3CSBproperties.csproj",
+        "projectPath": "D:\\CODING\\PlatformTechnology\\2.3CSBproperties\\2.3CSBproperties\\2.3CSBproperties.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\2.3CSBproperties\\2.3CSBproperties\\obj\\",
+        "outputPath": "D:\\CODING\\PlatformTechnology\\2.3CSBproperties\\2.3CSBproperties\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

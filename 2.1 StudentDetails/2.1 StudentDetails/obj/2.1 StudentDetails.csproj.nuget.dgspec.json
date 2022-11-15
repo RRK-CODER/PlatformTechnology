@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\2.1 StudentDetails\\2.1 StudentDetails\\2.1 StudentDetails.csproj": {}
+    "D:\\CODING\\PlatformTechnology\\2.1 StudentDetails\\2.1 StudentDetails\\2.1 StudentDetails.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\2.1 StudentDetails\\2.1 StudentDetails\\2.1 StudentDetails.csproj": {
+    "D:\\CODING\\PlatformTechnology\\2.1 StudentDetails\\2.1 StudentDetails\\2.1 StudentDetails.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\2.1 StudentDetails\\2.1 StudentDetails\\2.1 StudentDetails.csproj",
+        "projectUniqueName": "D:\\CODING\\PlatformTechnology\\2.1 StudentDetails\\2.1 StudentDetails\\2.1 StudentDetails.csproj",
         "projectName": "2.1 StudentDetails",
-        "projectPath": "C:\\Users\\User\\source\\repos\\2.1 StudentDetails\\2.1 StudentDetails\\2.1 StudentDetails.csproj",
+        "projectPath": "D:\\CODING\\PlatformTechnology\\2.1 StudentDetails\\2.1 StudentDetails\\2.1 StudentDetails.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\2.1 StudentDetails\\2.1 StudentDetails\\obj\\",
+        "outputPath": "D:\\CODING\\PlatformTechnology\\2.1 StudentDetails\\2.1 StudentDetails\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

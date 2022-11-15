@@ -1,0 +1,14 @@
+D:\CODING\PlatformTechnology\4.3 Library Details Using multithreading\4.3 Library Details Using multithreading\bin\Debug\netcoreapp3.1\4.3 Library Details Using multithreading.exe
+D:\CODING\PlatformTechnology\4.3 Library Details Using multithreading\4.3 Library Details Using multithreading\bin\Debug\netcoreapp3.1\4.3 Library Details Using multithreading.deps.json
+D:\CODING\PlatformTechnology\4.3 Library Details Using multithreading\4.3 Library Details Using multithreading\bin\Debug\netcoreapp3.1\4.3 Library Details Using multithreading.runtimeconfig.json
+D:\CODING\PlatformTechnology\4.3 Library Details Using multithreading\4.3 Library Details Using multithreading\bin\Debug\netcoreapp3.1\4.3 Library Details Using multithreading.runtimeconfig.dev.json
+D:\CODING\PlatformTechnology\4.3 Library Details Using multithreading\4.3 Library Details Using multithreading\bin\Debug\netcoreapp3.1\4.3 Library Details Using multithreading.dll
+D:\CODING\PlatformTechnology\4.3 Library Details Using multithreading\4.3 Library Details Using multithreading\bin\Debug\netcoreapp3.1\4.3 Library Details Using multithreading.pdb
+D:\CODING\PlatformTechnology\4.3 Library Details Using multithreading\4.3 Library Details Using multithreading\obj\Debug\netcoreapp3.1\4.3 Library Details Using multithreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\PlatformTechnology\4.3 Library Details Using multithreading\4.3 Library Details Using multithreading\obj\Debug\netcoreapp3.1\4.3 Library Details Using multithreading.AssemblyInfoInputs.cache
+D:\CODING\PlatformTechnology\4.3 Library Details Using multithreading\4.3 Library Details Using multithreading\obj\Debug\netcoreapp3.1\4.3 Library Details Using multithreading.AssemblyInfo.cs
+D:\CODING\PlatformTechnology\4.3 Library Details Using multithreading\4.3 Library Details Using multithreading\obj\Debug\netcoreapp3.1\4.3 Library Details Using multithreading.csproj.CoreCompileInputs.cache
+D:\CODING\PlatformTechnology\4.3 Library Details Using multithreading\4.3 Library Details Using multithreading\obj\Debug\netcoreapp3.1\4.3 Library Details Using multithreading.dll
+D:\CODING\PlatformTechnology\4.3 Library Details Using multithreading\4.3 Library Details Using multithreading\obj\Debug\netcoreapp3.1\4.3 Library Details Using multithreading.pdb
+D:\CODING\PlatformTechnology\4.3 Library Details Using multithreading\4.3 Library Details Using multithreading\obj\Debug\netcoreapp3.1\4.3 Library Details Using multithreading.genruntimeconfig.cache
+D:\CODING\PlatformTechnology\4.3 Library Details Using multithreading\4.3 Library Details Using multithreading\obj\Debug\netcoreapp3.1\4.3 Library Details Using multithreading.csproj.AssemblyReference.cache
