@@ -7,3 +7,48 @@ SqlConnection con = new SqlConnection("data source=DESKTOP-P0551RE\\SQLEXPRESS;i
             GridView1.DataSource = dt;
             GridView1.DataBind();
             con.Close();
+
+
+For Insert
+private void button1_click(object sender, EventArgs e)
+{
+SqlConnection con = new SqlConnection("data source=RRK; intial catalog=sampleDB; persist security info= True; Integrated Security = SSPI");
+con.Open();
+SqlCommand cmd=new SqlCommand("insert into stud values('"+textBox1.Text+"','"+textBox2.Text +"',' "+textBox3.Text+"')",con);
+cmd.ExecuteNonQuery();
+MessageBox.Show("Data Inserted Successfully");
+con.close();
+}
+
+For Update 
+private void button2_click(object sender, EventArgs e)
+{
+SqlConnection con = new SqlConnection("data source=RRK; intial catalog=sampleDB; persist security info= True; Integrated Security = SSPI");
+con.Open();
+SqlCommand cmd=new SqlCommand("update stud SET name='"+textBox1.Text+"',course='"+textBox3.Text +"'where rollno=' "+textBox2.Text+"'),con);
+cmd.ExecuteNonQuery();
+MessageBox.Show("Data Updated Successfully");
+con.close();
+}
+
+For Deleting
+private void button3_click(object sender, EventArgs e)
+{
+SqlConnection con = new SqlConnection("data source=RRK; intial catalog=sampleDB; persist security info= True; Integrated Security = SSPI");
+con.Open();
+String sql="DELETE FROM stud WHERE rollno ="+textBox2.Text;
+SqlCommand cmd=new SqlCommand(sql,con);
+cmd.ExecuteNonQuery();
+MessageBox.Show("Data Deleted Successfully");
+con.close();
+}
+
+For showing 
+SqlConnection con = new SqlConnection("data source=RRK; intial catalog=sampleDB; persist security info= True; Integrated Security = SSPI");
+con.Open();
+SqlCommand cmd=new SqlCommand("Select * from stud",con);
+SqlDataAdapter sda = new SqlDataAdapter(cmd);
+DataTable dt= new DataTable();
+sda.Fill(dt);
+dataGridView1.DataSource=dt;
+con.close();
